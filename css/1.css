@@ -1,0 +1,13 @@
+* {margin: 0; padding: 0;}
+
+.ytb {
+    font-size: 50px;
+    color: pink;
+    transition: 0.4s;
+}
+
+.ytb:hover {
+    color: rebeccapurple;
+    transition: 0.4s;
+}
+
